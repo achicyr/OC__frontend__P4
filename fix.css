@@ -1,0 +1,26 @@
+
+
+
+.d-bloc {
+    color: rgb(255, 255, 255);
+}
+.d-bloc button:hover {
+    color: rgba(205, 205, 205);
+}
+/***************************/
+body>header .navbar-header{}
+body>header .navbar-brand{
+    display: flex;
+    flex-flow: wrap;   
+}
+body>header .navbar-brand h1{
+    margin:0;
+}
+body>header .navbar-brand span{
+    font-size:10px;
+}
+
+body>footer h5{text-decoration:underline;}
+body>footer, body>footer a{
+ color: #424242 !important;
+}
