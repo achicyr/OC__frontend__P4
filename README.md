@@ -12,10 +12,10 @@ LES LIENS EN RAPPORT AVEC LA VIDÉO D'INTRODUCTION:
 Ci-après, je vais: 
 1. Lister les liens nécessaires pour réaliser le projet,
 2. Reformuler la mission sous forme de liste à puce,
-3. Fournir les liens que j'ai réalisé en tant que mentor pour ce projet
-4. Enfin, fournir un [step-by-step](https://www.youtube.com/watch?v=XXXXXXXXXXXXXXXXXXXXXXXXXXXXX&list=PLWZ83QCrp6NsligPZowq4TBh03H4Ufy9w&ab_channel=Archist111), ilustré en vidéo, et présenté sous forme de liste à puce
+3. Fournir les liens & ressources que j'ai assemblé & créé (en tant que mentor) pour ce projet
+4. Enfin, fournir un [step-by-step, ilustré en vidéo](https://www.youtube.com/watch?v=XXXXXXXXXXXXXXXXXXXXXXXXXXXXX&list=PLWZ83QCrp6NsligPZowq4TBh03H4Ufy9w&ab_channel=Archist111), et présenté sous forme de liste à puce
 
-## I) LIENS UTILES: 
+## I) LIENS NÉCESSAIRES: 
 - [Le modèle d'audit](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P4/Mode%CC%80le-audit-SEO.xlsx)
 - Checklists:
     - [Accéssibilité](https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist)
