@@ -4,23 +4,31 @@ Une vidéo d'introduction du projet par le mentor
 
 [![INTRODUCTION MENTOR](https://raw.githubusercontent.com/achicyr/OC___frontend/master/assets/video_background.jpg)](https://www.youtube.com/watch?v=XXXXXXXXXXXXXXXXXXXXXXXXXXXXX&list=PLWZ83QCrp6NsligPZowq4TBh03H4Ufy9w&ab_channel=Archist111 "Introduction du P4 par le mentor")
 
-LES LIENS EN RAPPORT AVEC LA VIDÉO D'INTRODUCTION:
+## LES ÉTAPES DE L'INTRODUCTION: 
+1. ???
+## LES LIENS EN RAPPORT AVEC LA VIDÉO D'INTRODUCTION:
 - lien 1
 
-# MISSION: 
+****
 
-Ci-après, je vais: 
-1. Lister les liens nécessaires pour réaliser le projet,
-2. Reformuler la mission sous forme de liste à puce,
-3. Fournir les liens & ressources que j'ai assemblé & créé (en tant que mentor) pour ce projet
-4. Enfin, fournir un [step-by-step, ilustré en vidéo](https://www.youtube.com/watch?v=XXXXXXXXXXXXXXXXXXXXXXXXXXXXX&list=PLWZ83QCrp6NsligPZowq4TBh03H4Ufy9w&ab_channel=Archist111), et présenté sous forme de liste à puce
+# MISSION REVISITÉ: 
 
-## I) LIENS NÉCESSAIRES: 
+## LES RESSOURCES À INTÉGRER À LA MISSION DU PROJET (2):
 - [Le modèle d'audit](https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/DW_P4/Mode%CC%80le-audit-SEO.xlsx)
 - Checklists:
     - [Accéssibilité](https://developer.mozilla.org/fr/docs/Web/Accessibility/Mobile_accessibility_checklist)
     - [SEO](https://www.matthieu-tranvan.fr/referencement-naturel/checklist-seo-25-bonnes-pratiques-on-site-pour-renforcer-votre-referencement-naturel.html)
 - [Maquette du projet 4](https://course.oc-static.com/projects/DW_P4/DW+P4+sources+site+La+Panthere.zip)
+
+---
+
+## CI-APRÈS, JE VAIS: 
+1. [Lister les liens présents dans les différents cours du projet](https://github.com/achicyr/OC__frontend__P4#user-content-liens-necessaires),
+2. [Reformuler la mission sous forme de liste à puce](https://github.com/achicyr/OC__frontend__P4#user-content-resume-mentor),
+3. [Fournir les liens & ressources que j'ai assemblé & créé (en tant que mentor) pour ce projet (mindmap,favoris,extensions VSCode,playlists youtube,liens web, etc..)](https://github.com/achicyr/OC__frontend__P4#user-content-ressources-mentor),
+4. [Enfin, fournir un step-by-step, ilustré en vidéo, et présenté sous forme de liste à puce](https://github.com/achicyr/OC__frontend__P4#user-content-step-by-step)
+
+## I) LIENS NÉCESSAIRES: 
 
 
 ## II) RÉSUMÉ MENTOR: 
@@ -53,8 +61,37 @@ OC Projet 4 du parcours frontend-dévelopeur: https://openclassrooms.com/fr/proj
 
 - [veuillez importer les favoris (celui présent dans la codebase n'est pas forcément à jour)](https://drive.google.com/file/d/1iWaeqWMYKpnnp4WkyciXNPLm9Jd-a0cn/view?usp=sharing)
 
-## III) LIENS MENTOR: 
+## III) RESSOURCES MENTOR: 
+   - [Favoris browser repository](???)
+   #### Mindmaps: 
+       - [...autres...](???)
+   #### Playlists video: 
+       - [???](???)
+   #### OS Software (Windows): 
+       - [???](???)
+   #### WebSites
+       - [???](???)
+   #### Browser extensions (Chrome): 
+       - [HeadingsMap](https://chrome.google.com/webstore/detail/headingsmap/flbjommegcjonpdmenkdiocclhjacmbi)
+       - [axe DevTools - Web Accessibility Testing](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd)
+       - [WAVE Evaluation Tool](https://chrome.google.com/webstore/detail/wave-evaluation-tool/jbbplnpkjmmeebjpijfedlgcdilocofh)
+   #### VSCode plugins:
+       - [axe Accessibility Linter](https://marketplace.visualstudio.com/items?itemName=deque-systems.vscode-axe-linter)
+       - [accessibility-snippets](https://marketplace.visualstudio.com/items?itemName=accessibility-snippets.accessibility-snippets)
+       - [Web Accessibility](https://marketplace.visualstudio.com/items?itemName=MaxvanderSchee.web-accessibility)
+       - [508/WCAG Compliance Prompter](https://marketplace.visualstudio.com/items?itemName=eknudsen.atag-content-prompter)
+       - ;
 ## IV)STEP-BY-STEP: 
+[Step-by-step ilustré en vidéo](https://www.youtube.com/watch?v=XXXXXXXXXXXXXXXXXXXXXXXXXXXXX&list=PLWZ83QCrp6NsligPZowq4TBh03H4Ufy9w&ab_channel=Archist111)
+
+
+---
+---
+---
+---
+---
+---
+
 
 
 # COURSES:
